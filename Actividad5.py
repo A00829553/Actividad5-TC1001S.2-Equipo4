@@ -5,6 +5,7 @@
 # un control claro sobre las diferentes capas de mi proyecto, por ejemplo como la imagen del auto esta en
 # la capa de hasta abajo mientras que los cuadrados estan arriba y hasta arriba el texto de el contenido
 # de las tarjetas.
+# Link del video: https://youtu.be/leFJzqjlnbk
 
 from random import *
 from turtle import *
